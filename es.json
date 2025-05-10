@@ -1,0 +1,771 @@
+{
+    "name": "Alhanis Espinal",
+    "image": "https://avatars.githubusercontent.com/u/209562673?v=4sadasd",
+    "titles": [
+        "Systems Engineer",
+        "Full Stack Developer",
+        "Data Engineer"
+    ],
+    "socials": [
+        {
+            "icon": "linkedin",
+            "url": "https://www.linkedin.com/in/alhanis-carolina-espinal-flores/"
+        },
+        {
+            "icon": "github",
+            "url": "https://github.com/SevenDogsNTwoCats"
+        },
+        {
+            "icon": "youtube",
+            "url": "https://www.youtube.com/@alhanisespinalflores9432"
+        }
+    ],
+    "description": [
+        "Apasionado por la programación desde los 12 años, desde entonces he adquirido una base sólida en múltiples lenguajes de programación.",
+        "Busco oportunidades para seguir desarrollándome en el campo del desarrollo de software, preferiblemente Backend y en el desarrollo e implementación de Aprendizaje Automático, Redes Neuronales o Inteligencia Artificial en general."
+    ],
+    "downloadCV": "Descargar CV",
+    "cvUrl": "https://drive.usercontent.google.com/u/0/uc?id=1Iux-ih3rpVyBnEr9FPeyvQtxvgGVGJJ5&export=download",
+    "code": "Código",
+    "demo": "Demo",
+    "skillsTitle": "Habilidades",
+    "skillsSubtitle": "Mis habilidades, tanto duras como blandas, son esenciales para mi trabajo como desarrollador de software. Estoy constantemente aprendiendo y mejorando para mantenerme al día con las últimas tecnologías y tendencias.",
+    "projectsTitle": "Proyectos",
+    "projectsSubtitle": "Aquí hay algunos de mis proyectos que muestran mis habilidades y experiencia. Siempre estoy buscando nuevos desafíos y oportunidades para crecer como desarrollador.",
+    "experienceTitle": "Experiencia",
+    "experienceSubtitle": "He trabajado en varios proyectos y pasantías que me han permitido aplicar mi conocimiento en escenarios del mundo real. Siempre estoy buscando nuevos desafíos y oportunidades para crecer como desarrollador.",
+    "educationTitle": "Educación",
+    "educationSubtitle": "Tengo una sólida formación educativa en ingeniería de sistemas y programación. Siempre estoy buscando nuevas oportunidades para aprender y crecer.",
+    "certificatesTitle": "Certificados",
+    "certificatesSubtitle": "He obtenido varios certificados que demuestran mis habilidades y conocimientos en programación y desarrollo de software. Siempre estoy buscando nuevas oportunidades para aprender y crecer.",
+    "verifyCertificate": "Verificar Certificado",
+    "skills": {
+        "hard": {
+            "Backend": [
+                "Python",
+                "Django",
+                "FastAPI",
+                "Java",
+                "SpringBoot",
+                "Node.js",
+                "Express",
+                "C#"
+            ],
+            "Frontend": [
+                "JavaScript",
+                "TypeScript",
+                "React",
+                "NextJS",
+                "HTML&CSS",
+                "Bootstrap",
+                "Tailwind"
+            ],
+            "AI/ML": [
+                "TensorFlow",
+                "Keras",
+                "LangChain",
+                "LangGraph",
+                "LangSmith",
+                "Pandas",
+                "NumPy",
+                "GNU Octave"
+            ],
+            "Data": [
+                "Airflow",
+                "Grafana",
+                "SQL",
+                "MySQL",
+                "PostgreSQL",
+                "Oracle",
+                "MongoDB"
+            ],
+            "DevOps/Tools": [
+                "Docker",
+                "GCP",
+                "AWS",
+                "Git",
+                "GitHub",
+                "Cisco"
+            ]
+        },
+        "soft": [
+            "Creatividad",
+            "Innovación",
+            "Pensamiento Analítico",
+            "Gestión de Proyectos Ágiles",
+            "Liderazgo",
+            "Adaptabilidad",
+            "Comunicación Efectiva",
+            "Autodidacta",
+            "Trabajo en Equipo",
+            "Autocontrol",
+            "Resolución de Problemas",
+            "Colaboración"
+        ]
+    },
+    "education": [
+        {
+            "degree": "Ingeniería en Sistemas",
+            "grade": "Licenciatura",
+            "location": "Tegucigalpa, Honduras",
+            "institution": "Universidad Nacional Autónoma de Honduras (UNAH)",
+            "date": "09/2018 – 07/2024",
+            "description": "Estudié en el programa de Ingeniería en Sistemas en la UNAH, donde adquirí una sólida base en programación, desarrollo de software y análisis de datos. También participé en varios proyectos y pasantías que me permitieron aplicar mi conocimiento en escenarios del mundo real."
+        },
+        {
+            "degree": "Programa Talent TIC",
+            "grade": "Certificación",
+            "location": "Tegucigalpa, Honduras",
+            "institution": "Senacit, IHCIETI, Huawei-CELAC",
+            "date": "01/2025 – 03/2025",
+            "description": "Participé en el Programa Talent TIC, que se centra en el desarrollo de habilidades en programación, análisis de datos e inteligencia artificial. Este programa es una colaboración entre Senacit, IHCIETI y Huawei-CELAC."
+        },
+        {
+            "degree": "Desarrollador BackEnd",
+            "grade": "Certificación",
+            "location": "Remoto",
+            "institution": "Programa Oracle Next Education (ONE) | Alura",
+            "date": "03/2023 - 09/2023",
+            "description": "Completé el programa de Desarrollador BackEnd, que me proporcionó un conocimiento profundo sobre el desarrollo backend, incluyendo lenguajes de programación, marcos de trabajo y gestión de bases de datos."
+        },
+        {
+            "degree": "Técnico Profesional en Informática",
+            "grade": "Bachillerato",
+            "location": "Tegucigalpa, Honduras",
+            "institution": "Jardín, Escuela e Instituto Don Bosco",
+            "date": "2015 – 2017",
+            "description": "Completé mi educación de bachillerato con énfasis en informática en el Jardín, Escuela e Instituto Don Bosco. Adquirí conocimientos básicos en programación, hardware y software."
+        }
+    ],
+    "experience": [
+        {
+            "title": "Desarrollador de Software",
+            "company": "Freelance",
+            "type": "Freelance",
+            "location": "Remoto",
+            "date": "07/2024 - 03/2025",
+            "description": [
+                "Ofrezco servicios de desarrollo de software en Python con marcos como Django y FastAPI, en Nodejs, React y NextJS. También análisis de datos y ML en Python. Además de servicios de análisis de sistemas",
+                "Trabajé en el proyecto UDH de radares para la Visualización de objetivos capturados por un radar, trabajando con node js, websockets, HTML, CSS, y leafleat.",
+                "He trabajado en el desarrollo Backend desarrollando microservicios en Django del proyecto SACE (Administración de centros educativos)",
+                "Apoyé el proyecto UDH de seguimiento de objetivos aéreos utilizando un sistema de radar con mediciones ruidosas, aplicando el filtro de Kalman, la distancia de Mahalanobis y el algoritmo húngaro con Python, Numpy, Matplotlib."
+            ],
+            "skills": [
+                "Python",
+                "Django",
+                "FastAPI",
+                "Node.js",
+                "Express",
+                "React",
+                "NextJS",
+                "HTML&CSS",
+                "Bootstrap",
+                "Tailwind",
+                "ShadCN",
+                "Javascript",
+                "SprintBoot",
+                "Node.js",
+                "Numpy",
+                "Matplotlib",
+                "Filtro de Kalman",
+                "Distancia de Mahalanobis",
+                "Algoritmo Húngaro",
+                "Websockets",
+                "Leaflet",
+                "Microservicios",
+                "PostgreSQL",
+                "MySQL",
+                "MongoDB",
+                "Docker",
+                "Git"
+            ]
+        },
+        {
+            "title": "Analista Central",
+            "type": "Pasantía",
+            "company": "Programa Nacional para la Reducción de Pérdidas (PNRP)",
+            "location": "Tegucigalpa, Honduras",
+            "date": "07/2024 - 01/2025",
+            "description": [
+                "Apoyo en la gestión y análisis de datos de medidores inteligentes de electricidad.",
+                "Colaboración en la automatización de procesos ETL para entradas de datos.",
+                "Asistencia en el desarrollo y mantenimiento de flujos de datos en Airflow.",
+                "Apoyo en la creación de tableros en Grafana.",
+                "Colaboración en la implementación y mejora de alarmas personalizadas basadas en patrones de consumo.",
+                "Asistencia en la gestión de bases de datos, incluyendo MySQL, MongoDB y MSSQL.",
+                "Apoyo en la optimización de consultas y estructuras de datos para mejorar el rendimiento del sistema.",
+                "Colaboración en el desarrollo y mantenimiento de APIs para la integración del sistema.",
+                "Asistencia en la implementación de medidas de seguridad para sistemas y bases de datos.",
+                "Apoyo en la gestión y monitoreo de infraestructura Docker.",
+                "Colaboración en el desarrollo y mantenimiento de scripts para la automatización de tareas.",
+                "Asistencia en el análisis de patrones de consumo de energía y detección de anomalías.",
+                "Apoyo en la implementación y mejora de modelos de aprendizaje automático, redes neuronales.",
+                "Colaboración en la generación de informes y visualizaciones para la toma de decisiones.",
+                "Asistencia en la configuración y mantenimiento de servidores web y proxy inverso (nginx)."
+            ],
+            "skills": [
+                "Python",
+                "HTML&CSS",
+                "Bootstrap",
+                "SprintBoot",
+                "MySQL",
+                "MongoDB",
+                "PostgreSQL",
+                "MSSQL",
+                "Airflow",
+                "Grafana",
+                "Docker",
+                "Git",
+                "Java",
+                "XML",
+                "JSON",
+                "ETL",
+                "Análisis de Datos",
+                "Visualización de Datos",
+                "nginx",
+                "LlaMa",
+                "API de OpenAI"
+            ]
+        },
+        {
+            "title": "Entrenador de Inteligencia Artificial",
+            "type": "Voluntariado",
+            "company": "Instituto de Investigación Energética (IIE)",
+            "location": "Tegucigalpa, Honduras",
+            "date": "08/2022 - 03/2023",
+            "description": [
+                "Simulación numérica y entrenamiento de una red neuronal en un proyecto de modelado matemático del campo magnético en un transformador.",
+                "Implementación de redes neuronales en GNU Octave.",
+                "Programación y optimización de algoritmos de aprendizaje automático para mejorar la precisión de los modelos de redes neuronales.",
+                "Programación y análisis de datos.",
+                "Comprensión de la aplicación de la inteligencia artificial en la investigación científica."
+            ],
+            "skills": [
+                "Python",
+                "GNU Octave",
+                "TensorFlow",
+                "Keras",
+                "NumPy",
+                "Pandas",
+                "Aprendizaje Automático",
+                "Redes Neuronales",
+                "Análisis de Datos"
+            ]
+        },
+        {
+            "title": "Técnico de Soporte TI",
+            "type": "Pasantía",
+            "company": "New Horizons Honduras",
+            "location": "Tegucigalpa, Honduras",
+            "date": "08/2017 - 11/2017",
+            "description": [
+                "Instalar, configurar y mantener el hardware y software de los sistemas informáticos.",
+                "Realizar pruebas de rendimiento.",
+                "Mantener la seguridad de los sistemas informáticos, aplicar parches y actualizaciones de seguridad.",
+                "Realizar copias de seguridad y restauraciones de datos."
+            ],
+            "skills": [
+                "Windows",
+                "Linux",
+                "Hardware",
+                "Software",
+                "Redes",
+                "Seguridad",
+                "Copia de Seguridad de Datos",
+                "Solución de Problemas"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "Sitio Web de Telegestión",
+            "description": "Migré las tecnologías de un monolito en Springboot y Thymeleaf a una API REST en FastAPI y una Aplicación Web Progresiva en NextJS del Libro de Bitácora de Telegestión en el PNRP (https://telegestion.pnrp.hn/ ).",
+            "image": "/placeholder.svg?height=300&width=500",
+            "tags": [
+                "Python",
+                "FastAPI",
+                "NextJS",
+                "PostgreSQL",
+                "Docker",
+                "Git",
+                "JavaScript",
+                "Tailwind"
+            ],
+            "liveUrl": "https://telegestion.pnrp.hn/  "
+        },
+        {
+            "title": "Reconocimiento Facial",
+            "description": "Un sistema de reconocimiento facial utilizando OpenCV2 y Eigenfaces. El sistema captura caras de videos o cámara, entrena un modelo con las caras capturadas y crea un algoritmo de reconocimiento facial utilizando ambos resultados.",
+            "image": "/placeholder.svg?height=300&width=500",
+            "tags": [
+                "Python",
+                "OpenCV2",
+                "Eigenfaces",
+                "Aprendizaje Automático",
+                "Redes Neuronales"
+            ],
+            "githubUrl": "https://github.com/SevenDogsNTwoCats/reconocimiento-facial-cv2  ",
+            "liveUrl": "https://www.linkedin.com/posts/alhanis-carolina-espinal-flores_reconocimientofacial-con-cv2-quiero-activity-7194903004162969600-lOmi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD86KeIBBnR3yCZ-0aaz4bCxLN3AoodNNW4  "
+        },
+        {
+            "title": "Clasificación de Latidos del Corazón",
+            "description": "Proyecto de la clase de Inteligencia Artificial en la UNAH: Implementación de una Red Neuronal Profunda para la clasificación de las lecturas de latidos del corazón humano. Este es un problema de clasificación multiclase ya que hay 3 tipos posibles de latidos (Normal (N), Anormal (A), No Clasificable (U)).",
+            "image": "/placeholder.svg?height=300&width=500",
+            "tags": [
+                "Python",
+                "TensorFlow",
+                "Keras",
+                "Aprendizaje Automático",
+                "Redes Neuronales"
+            ],
+            "githubUrl": "https://github.com/SevenDogsNTwoCats/Red-Neuronal-Profunda-para-la-clasificaci-n-de-lecturas-de-los-latidos-del-coraz-n  "
+        },
+        {
+            "title": "Aplicación de Temporizador",
+            "description": "TIMERAPP es una aplicación integral de gestión del tiempo construida con React Native y Expo. Ofrece tres herramientas esenciales de temporización para aumentar tu productividad y ayudarte a gestionar tu tiempo de manera efectiva.",
+            "image": "/placeholder.svg?height=300&width=500",
+            "tags": [
+                "React Native",
+                "Expo",
+                "TypeScript",
+                "NativeWind",
+                "Tailwind",
+                "React Native Reusables"
+            ],
+            "githubUrl": "https://github.com/SevenDogsNTwoCats/timerapp  "
+        },
+        {
+            "title": "Tsunami",
+            "description": "Tsunami es una aplicación de música que te permite buscar música utilizando la API de Deezer, descargar música de Deezer o YouTube y gestionar listas de reproducción. También tiene un reproductor de música con controles estándar.",
+            "image": "/placeholder.svg?height=300&width=500",
+            "tags": [
+                "React Native",
+                "Expo",
+                "TypeScript",
+                "NativeWind",
+                "Tailwind",
+                "React Native Reusables",
+                "API de Deezer",
+                "API de YouTube"
+            ],
+            "liveUrl": "https://www.linkedin.com/posts/alhanis-carolina-espinal-flores_el-mes-pasado-decid%C3%AD-probar-por-pura-curiosidad-activity-7317967583675101184-p6oK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD86KeIBBnR3yCZ-0aaz4bCxLN3AoodNNW4  "
+        },
+        {
+            "title": "Aplicación de Clima",
+            "description": "Una aplicación de clima que muestra el clima actual y el pronóstico para los próximos 5 días.",
+            "image": "/placeholder.svg?height=300&width=500",
+            "tags": [
+                "API de OpenWeatherMap",
+                "CSS",
+                "React",
+                "JavaScript",
+                "Vite"
+            ],
+            "githubUrl": "https://github.com/SevenDogsNTwoCats/weather-app  ",
+            "liveUrl": "https://app-weather-app.web.app/  "
+        },
+        {
+            "title": "Texto Encriptado",
+            "description": "Una aplicación simple que encripta y desencripta texto utilizando un algoritmo simple.",
+            "image": "/placeholder.svg?height=300&width=500",
+            "tags": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Canvas"
+            ],
+            "githubUrl": "https://github.com/SevenDogsNTwoCats/encriptador_sprint01  ",
+            "liveUrl": "https://sevendogsntwocats.github.io/encriptador_sprint01/  "
+        },
+        {
+            "title": "API de Pokémon",
+            "description": "Una aplicación simple que muestra tarjetas con la información de un Pokémon utilizando la PokeAPI.",
+            "image": "/placeholder.svg?height=300&width=500",
+            "tags": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "API"
+            ],
+            "githubUrl": "https://github.com/SevenDogsNTwoCats/pokemonApi  ",
+            "liveUrl": "https://weba-643d9.web.app/  "
+        },
+        {
+            "title": "REG410",
+            "description": "Sistema para gestionar el registro de estudiantes en la UNAH.",
+            "image": "/placeholder.svg?height=300&width=500",
+            "tags": [
+                "HTML",
+                "Bootstrap",
+                "JavaScript",
+                "Java"
+            ],
+            "githubUrl": "https://github.com/SevenDogsNTwoCats/POO/tree/main/Proyecto  "
+        },
+        {
+            "title": "Convertidor de Monedas",
+            "description": "Una aplicación simple que convierte monedas utilizando la API de CoinGecko.",
+            "image": "/placeholder.svg?height=300&width=500",
+            "tags": [
+                "Java",
+                "JavaFX"
+            ],
+            "githubUrl": "https://github.com/SevenDogsNTwoCats/Conversor-de-monedas  "
+        },
+        {
+            "title": "Frontend de Agencia de Viajes",
+            "description": "Frontend de un sitio web de agencia de viajes.",
+            "image": "/placeholder.svg?height=300&width=500",
+            "tags": [
+                "CSS",
+                "HTML"
+            ],
+            "githubUrl": "",
+            "liveUrl": "https://travels-website-bc333.web.app/  "
+        },
+        {
+            "title": "Mi Primer Portafolio",
+            "description": "Mi portafolio anterior.",
+            "image": "/placeholder.svg?height=300&width=500",
+            "tags": [
+                "CSS",
+                "JavaScript",
+                "HTML"
+            ],
+            "githubUrl": "",
+            "liveUrl": "https://alhanisespinal.web.app/  "
+        },
+        {
+            "title": "Este Portafolio",
+            "description": "Mi portafolio actual.",
+            "image": "/placeholder.svg?height=300&width=500",
+            "tags": [
+                "Tailwind",
+                "React",
+                "Astro",
+                "JavaScript",
+                "Framer Motion",
+                "ShadCN"
+            ],
+            "githubUrl": "",
+            "liveUrl": ""
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Information Representation and Data Organization",
+            "organization": "Huawei",
+            "logo": "/placeholder.svg?height=60&width=60",
+            "issuedDate": "Mar. 2025",
+            "credentialUrl": "https://www.credly.com/badges/d19fe65d-8e30-4726-8414-ffa36d87e64c/linked_in_profile",
+            "skills": [
+                "Big data",
+                "Estructura de datos",
+                "Big Data Analisis",
+                "Encriptación"
+            ]
+        },
+        {
+            "name": "Overview of IoT Technologies",
+            "organization": "Huawei",
+            "logo": "/placeholder.svg?height=60&width=60",
+            "issuedDate": "Mar. 2025",
+            "credentialUrl": "https://www.credly.com/badges/7ae5b107-0090-4431-9f70-9cf5099172d1/linked_in_profile",
+            "skills": [
+                "Big data",
+                "Estructura de datos",
+                "Big Data Analisis",
+                "Encriptación"
+            ]
+        },
+        {
+            "name": "Search and AI",
+            "organization": "Huawei",
+            "logo": "/placeholder.svg?height=60&width=60",
+            "issuedDate": "Mar. 2025",
+            "credentialUrl": "https://www.credly.com/badges/81637960-3fd1-42e6-8af6-12c7a8807d7d/linked_in_profile",
+            "skills": [
+                "Big data",
+                "Estructura de datos",
+                "Big Data Analisis",
+                "Encriptación"
+            ]
+        },
+        {
+            "name": "Introduction to Generative AI",
+            "organization": "Google",
+            "logo": "/placeholder.svg?height=60&width=60",
+            "issuedDate": "Oct. 2024",
+            "credentialUrl": "https://www.cloudskillsboost.google/public_profiles/1089bd3a-a6a8-4d49-b8bf-7a9b8c00a498/badges/11939062?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share",
+            "skills": [
+                "Big data",
+                "Estructura de datos",
+                "Big Data Analisis",
+                "Encriptación"
+            ]
+        },
+        {
+            "name": "Introduction to Large Language Models",
+            "organization": "Google",
+            "logo": "/placeholder.svg?height=60&width=60",
+            "issuedDate": "Oct. 2024",
+            "credentialUrl": "https://www.cloudskillsboost.google/public_profiles/1089bd3a-a6a8-4d49-b8bf-7a9b8c00a498/badges/11939326?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share",
+            "skills": [
+                "Big data",
+                "Estructura de datos",
+                "Big Data Analisis",
+                "Encriptación"
+            ]
+        },
+        {
+            "name": "Working with Notebooks in Vertex AI",
+            "organization": "Google",
+            "logo": "/placeholder.svg?height=60&width=60",
+            "issuedDate": "Oct. 2024",
+            "credentialUrl": "https://www.cloudskillsboost.google/public_profiles/1089bd3a-a6a8-4d49-b8bf-7a9b8c00a498/badges/12308267?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share",
+            "skills": [
+                "Big data",
+                "Estructura de datos",
+                "Big Data Analisis",
+                "Encriptación"
+            ]
+        },
+        {
+            "name": "Machine Learning Operations (MLOps) with Vertex AI: Manage Features",
+            "organization": "Google",
+            "logo": "/placeholder.svg?height=60&width=60",
+            "issuedDate": "Sep. 2024",
+            "credentialUrl": "https://www.cloudskillsboost.google/public_profiles/1089bd3a-a6a8-4d49-b8bf-7a9b8c00a498/badges/11663404?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share",
+            "skills": [
+                "Big data",
+                "Estructura de datos",
+                "Big Data Analisis",
+                "Encriptación"
+            ]
+        },
+        {
+            "name": "Machine Learning Operations (MLOps): Getting Started - Español",
+            "organization": "Google",
+            "logo": "/placeholder.svg?height=60&width=60",
+            "issuedDate": "Sep. 2024",
+            "credentialUrl": "https://www.cloudskillsboost.google/public_profiles/1089bd3a-a6a8-4d49-b8bf-7a9b8c00a498/badges/11550970?locale=es&utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share",
+            "skills": [
+                "Big data",
+                "Estructura de datos",
+                "Big Data Analisis",
+                "Encriptación"
+            ]
+        },
+        {
+            "name": "Introduction to AI and Machine Learning on Google Cloud",
+            "organization": "Google",
+            "logo": "/placeholder.svg?height=60&width=60",
+            "issuedDate": "Ago. 2024",
+            "credentialUrl": "https://www.cloudskillsboost.google/public_profiles/1089bd3a-a6a8-4d49-b8bf-7a9b8c00a498/badges/10448663?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share",
+            "skills": [
+                "Big data",
+                "Estructura de datos",
+                "Big Data Analisis",
+                "Encriptación"
+            ]
+        },
+        {
+            "name": "Launching into Machine Learning",
+            "organization": "Google",
+            "logo": "/placeholder.svg?height=60&width=60",
+            "issuedDate": "Ago. 2024",
+            "credentialUrl": "https://www.cloudskillsboost.google/public_profiles/1089bd3a-a6a8-4d49-b8bf-7a9b8c00a498/badges/10637901?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share",
+            "skills": [
+                "Big data",
+                "Estructura de datos",
+                "Big Data Analisis",
+                "Encriptación"
+            ]
+        },
+        {
+            "name": "TensorFlow on Google Cloud",
+            "organization": "Google",
+            "logo": "/placeholder.svg?height=60&width=60",
+            "issuedDate": "Ago. 2024",
+            "credentialUrl": "https://www.cloudskillsboost.google/public_profiles/1089bd3a-a6a8-4d49-b8bf-7a9b8c00a498/badges/11052195?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share",
+            "skills": [
+                "Big data",
+                "Estructura de datos",
+                "Big Data Analisis",
+                "Encriptación"
+            ]
+        },
+        {
+            "name": "Java y JDBC: Trabajando con una Base de Datos",
+            "organization": "Alura Latam",
+            "logo": "/placeholder.svg?height=60&width=60",
+            "issuedDate": "Sep. 2023",
+            "credentialUrl": "https://app.aluracursos.com/certificate/698cf66b-3c76-40fd-aa1f-7f6efd0fc9ba",
+            "skills": [
+                "Java"
+            ]
+        },
+        {
+            "name": "Java y JPA: consultas avanzadas, rendimiento y modelos complejos",
+            "organization": "Alura Latam",
+            "logo": "/placeholder.svg?height=60&width=60",
+            "issuedDate": "Sep. 2023",
+            "credentialUrl": "https://app.aluracursos.com/certificate/65b7ff0d-83f4-4f1e-abc0-15bd0bfd1d03",
+            "skills": [
+                "Java"
+            ]
+        },
+        {
+            "name": "Java Excepciones: Aprenda a crear, lanzar y controlar excepciones",
+            "organization": "Alura Latam",
+            "logo": "/placeholder.svg?height=60&width=60",
+            "issuedDate": "Jun. 2023",
+            "credentialUrl": "https://app.aluracursos.com/certificate/37836ac6-6d8a-4c13-a840-27e5c9201655",
+            "skills": [
+                "Java"
+            ]
+        },
+        {
+            "name": "Java JRE y JDK: compile y ejecute su primer programa",
+            "organization": "Alura Latam",
+            "logo": "/placeholder.svg?height=60&width=60",
+            "issuedDate": "Jun. 2023",
+            "credentialUrl": "https://app.aluracursos.com/certificate/65677ac3-3083-4989-bfa2-69972a978086",
+            "skills": [
+                "Java"
+            ]
+        },
+        {
+            "name": "Java OO: Entendiendo la Orientación a Objetos",
+            "organization": "Alura Latam",
+            "logo": "/placeholder.svg?height=60&width=60",
+            "issuedDate": "Jun. 2023",
+            "credentialUrl": "https://app.aluracursos.com/certificate/9050908d-ce32-4a2d-adcf-8a2761f830ac",
+            "skills": [
+                "Java"
+            ]
+        },
+        {
+            "name": "Java Polimorfismo: Entendiendo herencia e interfaces",
+            "organization": "Alura Latam",
+            "logo": "/placeholder.svg?height=60&width=60",
+            "issuedDate": "Jun. 2023",
+            "credentialUrl": "https://app.aluracursos.com/certificate/3e45d641-a650-476a-a697-9b833897227d",
+            "skills": [
+                "Java"
+            ]
+        },
+        {
+            "name": "Java y java.lang: Programe con la clase Object y String",
+            "organization": "Alura Latam",
+            "logo": "/placeholder.svg?height=60&width=60",
+            "issuedDate": "Jun. 2023",
+            "credentialUrl": "https://app.aluracursos.com/certificate/484db898-c035-445e-860f-eb6ede34d933",
+            "skills": [
+                "Java"
+            ]
+        },
+        {
+            "name": "Java y java.util: Colecciones, Wrappers y Lambda expressions",
+            "organization": "Alura Latam",
+            "logo": "/placeholder.svg?height=60&width=60",
+            "issuedDate": "Jun. 2023",
+            "credentialUrl": "https://app.aluracursos.com/certificate/a9b65fcc-8192-4b99-b0b3-2c4e6f69b028",
+            "skills": [
+                "Java"
+            ]
+        },
+        {
+            "name": "La Empresa Ágil: Introduciendo el Business Agilidad en las organizaciones",
+            "organization": "Alura Latam",
+            "logo": "/placeholder.svg?height=60&width=60",
+            "issuedDate": "Jun. 2023",
+            "credentialUrl": "https://app.aluracursos.com/certificate/4a3b4e6d-527f-452b-9dff-5bceda371f09",
+            "skills": [
+                "Agilidad"
+            ]
+        },
+        {
+            "name": "Organización de equipos ágiles: Las funciones existentes en un equipo",
+            "organization": "Alura Latam",
+            "logo": "/placeholder.svg?height=60&width=60",
+            "issuedDate": "Jun. 2023",
+            "credentialUrl": "https://app.aluracursos.com/user/alh9cef/course/organizacion-equipos-agiles-funciones-existentes-equipo/formalCertificate",
+            "skills": [
+                "Agilidad"
+            ]
+        },
+        {
+            "name": "Python Essentials 1",
+            "organization": "Cisco",
+            "logo": "/placeholder.svg?height=60&width=60",
+            "issuedDate": "May. 2023",
+            "credentialUrl": "https://www.credly.com/badges/cb86aa9c-5924-4bb9-b66d-b318a764f9ca/linked_in_profile",
+            "skills": [
+                "Python"
+            ]
+        },
+        {
+            "name": "Git y GitHub: controle y comparta su código",
+            "organization": "Alura Latam",
+            "logo": "/placeholder.svg?height=60&width=60",
+            "issuedDate": "Abr. 2023",
+            "credentialUrl": "https://app.aluracursos.com/user/alh9cef/course/git-github-control-version/formalCertificate",
+            "skills": [
+                "Git",
+                "GitHub"
+            ]
+        },
+        {
+            "name": "LinkedIn: Como hacer que tu perfil trabaje por ti",
+            "organization": "Alura Latam",
+            "logo": "/placeholder.svg?height=60&width=60",
+            "issuedDate": "Abr. 2023",
+            "credentialUrl": "https://app.aluracursos.com/user/alh9cef/course/linkedin-hacer-perfil-trabaje-por-ti/formalCertificate",
+            "skills": [
+                "LinkedIn"
+            ]
+        },
+        {
+            "name": "Aprender a aprender: tecnicas para tu autodesarrollo",
+            "organization": "Alura Latam",
+            "logo": "/placeholder.svg?height=60&width=60",
+            "issuedDate": "Mar. 2023",
+            "credentialUrl": "https://app.aluracursos.com/user/alh9cef/course/aprender-a-aprender-tecnicas-autodesarrollo/formalCertificate",
+            "skills": [
+                "Desarrollo personal"
+            ]
+        },
+        {
+            "name": "Foco: Enfocarse trae más resultados para el día a día",
+            "organization": "Alura Latam",
+            "logo": "/placeholder.svg?height=60&width=60",
+            "issuedDate": "Mar. 2023",
+            "credentialUrl": "https://app.aluracursos.com/user/alh9cef/course/foco-habito-dia-a-dia/formalCertificate",
+            "skills": [
+                "Foco",
+                "Productividad"
+            ]
+        },
+        {
+            "name": "Hábitos: Ser productivo para cumplir sus metas personales",
+            "organization": "Alura Latam",
+            "logo": "/placeholder.svg?height=60&width=60",
+            "issuedDate": "Mar. 2023",
+            "credentialUrl": "https://app.aluracursos.com/user/alh9cef/course/habitos-productivo-metas-personales/formalCertificate",
+            "skills": [
+                "Productividad"
+            ]
+        },
+        {
+            "name": "INTRODUCCIÓN A LA SIMULACIÓN NUMÉRICA CON GNU OCTAVE",
+            "organization": "INSTITUTO DE INVESTIGACIÓN EN ENERGÍA",
+            "logo": "/placeholder.svg?height=60&width=60",
+            "issuedDate": "Ago. 2022",
+            "credentialUrl": "https://drive.google.com/file/d/1q21X3An21QtgY6PYONRBjsh4WdI474nR/view?usp=sharing",
+            "skills": [
+                "GNU Octave"
+            ]
+        }
+    ]
+}
