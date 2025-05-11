@@ -39,6 +39,38 @@
     "certificatesTitle": "Certificates",
     "certificatesSubtitle": "I have obtained various certifications that demonstrate my skills and knowledge in programming and software development. I am always looking for new opportunities to learn and grow.",
     "verifyCertificate": "Verify Certificate",
+    "sections": [
+        {
+            "id": "home",
+            "icon": "home",
+            "label": "Home"
+        },
+        {
+            "id": "skills",
+            "icon": "skills",
+            "label": "Skills"
+        },
+        {
+            "id": "projects",
+            "icon": "projects",
+            "label": "Projects"
+        },
+        {
+            "id": "experience",
+            "icon": "experience",
+            "label": "Experience"
+        },
+        {
+            "id": "education",
+            "icon": "education",
+            "label": "Education"
+        },
+        {
+            "id": "certificates",
+            "icon": "certificates",
+            "label": "Certificates"
+        }
+    ],
     "skills": {
         "hard": {
             "Backend": [
