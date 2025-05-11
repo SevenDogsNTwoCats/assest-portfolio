@@ -171,6 +171,30 @@
     ],
     "experience": [
         {
+            "title": "FullStack Developer",
+            "company": "Ginih",
+            "type": "FullTime",
+            "location": "On site",
+            "date": "04/2025 – Present",
+            "description": [
+                "I am currently working as a FullStack Developer at Ginih, where I am responsible for developing and maintaining web applications using technologies such as React, NextJS, Node.js, and AWS."
+            ],
+            "skills": [
+                "AWS",
+                "React",
+                "NextJS",
+                "Node.js",
+                "Python",
+                "MUI",
+                "React Native",
+                "Node.js",
+                "Lambda Functions",
+                "Amplify",
+                "Git",
+                "GitHub"
+            ]
+        },
+        {
             "title": "Software Developer",
             "company": "Freelance",
             "type": "Freelance",
