@@ -484,7 +484,7 @@
         {
             "title": "Este Portafolio",
             "description": "Mi portafolio actual.",
-            "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/newportfolio.png?height=300&width=500",
+            "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/newPortfolio.png?height=300&width=500",
             "tags": [
                 "Tailwind",
                 "React",
