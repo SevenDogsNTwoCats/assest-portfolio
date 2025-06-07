@@ -336,7 +336,7 @@
         {
             "title": "Telegestión Website",
             "description": "I migrated the Technologies of a Monolith in Springboot and Thymeleaf to a REST API in FastAPI and Progressive Web APP in NextJS of the Telegestión Logbook in the PNRP (https://telegestion.pnrp.hn/).",
-            "image": "/placeholder.svg?height=300&width=500",
+            "image": "https://github.com/SevenDogsNTwoCats/assest-portfolio/blob/main/img/projects/pnrp.png?height=300&width=500",
             "tags": [
                 "Python",
                 "FastAPI",
