@@ -352,7 +352,7 @@
         {
             "title": "Facial Recognition",
             "description": "A facial recognition system using OpenCV2 and Eigenfaces. The system captures faces from videos or camera, trains a model with the captured faces, and creates an algorithm for facial recognition using both results.",
-            "image": "/placeholder.svg?height=300&width=500",
+            "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/rf.png?height=300&width=500",
             "tags": [
                 "Python",
                 "OpenCV2",
@@ -366,7 +366,7 @@
         {
             "title": "Heartbeats Classification",
             "description": "Project of the Artificial Intelligence class at UNAH: Implementation of a Deep Neural Network for the classification of readings of human heartbeats. This is a multiclass classification problem since there are 3 possible types of beats (Normal (N), Abnormal (A), Unclassifiable (U)).",
-            "image": "/placeholder.svg?height=300&width=500",
+            "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/clc.png?height=300&width=500",
             "tags": [
                 "Python",
                 "TensorFlow",
@@ -409,7 +409,7 @@
         {
             "title": "Weather App",
             "description": "A weather app that shows the current weather and forecast for the next 5 days.",
-            "image": "/placeholder.svg?height=300&width=500",
+            "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/weather.png?height=300&width=500",
             "tags": [
                 "OpenWeatherMap API",
                 "CSS",
@@ -423,7 +423,7 @@
         {
             "title": "Encripted Text",
             "description": "A simple app that encrypts and decrypts text using a simple algorithm.",
-            "image": "/placeholder.svg?height=300&width=500",
+            "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/encriptador.png?height=300&width=500",
             "tags": [
                 "HTML",
                 "CSS",
@@ -436,7 +436,7 @@
         {
             "title": "Pokemon API",
             "description": "A simple app that shows cards whit the information of a pokemon using the PokeAPI.",
-            "image": "/placeholder.svg?height=300&width=500",
+            "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/pokemon.png?height=300&width=500",
             "tags": [
                 "HTML",
                 "CSS",
@@ -449,7 +449,7 @@
         {
             "title": "REG410",
             "description": "System to manage the registration of students in the UNAH.",
-            "image": "/placeholder.svg?height=300&width=500",
+            "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/reg410.png?height=300&width=500",
             "tags": [
                 "HTML",
                 "Bootstrap",
@@ -461,7 +461,7 @@
         {
             "title": "Coin Converter",
             "description": "A simple app that converts coins using the CoinGecko API.",
-            "image": "/placeholder.svg?height=300&width=500",
+            "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/conversor.png?height=300&width=500",
             "tags": [
                 "Java",
                 "JavaFX"
@@ -471,7 +471,7 @@
         {
             "title": "Travel Agency Frontend",
             "description": "Frontend of a travel agency website.",
-            "image": "/placeholder.svg?height=300&width=500",
+            "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/travelco.png?height=300&width=500",
             "tags": [
                 "CSS",
                 "HTML"
@@ -482,7 +482,7 @@
         {
             "title": "My First Portfolio",
             "description": "My previous portfolio.",
-            "image": "/placeholder.svg?height=300&width=500",
+            "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/firstPortfolio.png?height=300&width=500",
             "tags": [
                 "CSS",
                 "JavaScript",
