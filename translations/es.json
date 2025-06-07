@@ -27,7 +27,7 @@
     "downloadCV": "Descargar CV",
     "cvUrl": "https://drive.usercontent.google.com/u/0/uc?id=1Iux-ih3rpVyBnEr9FPeyvQtxvgGVGJJ5&export=download",
     "code": "Código",
-    "demo": "Demo",
+    "demo": "View",
     "skillsTitle": "Habilidades",
     "skillsSubtitle": "Mis habilidades, tanto duras como blandas, son esenciales para mi trabajo como desarrollador de software. Estoy constantemente aprendiendo y mejorando para mantenerme al día con las últimas tecnologías y tendencias.",
     "projectsTitle": "Proyectos",
@@ -336,7 +336,7 @@
         {
             "title": "Sitio Web de Telegestión",
             "description": "Migré las tecnologías de un monolito en Springboot y Thymeleaf a una API REST en FastAPI y una Aplicación Web Progresiva en NextJS del Libro de Bitácora de Telegestión en el PNRP (https://telegestion.pnrp.hn/ ).",
-            "image": "/placeholder.svg?height=300&width=500",
+            "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/pnrp.png?height=300&width=500",
             "tags": [
                 "Python",
                 "FastAPI",
@@ -352,7 +352,7 @@
         {
             "title": "Reconocimiento Facial",
             "description": "Un sistema de reconocimiento facial utilizando OpenCV2 y Eigenfaces. El sistema captura caras de videos o cámara, entrena un modelo con las caras capturadas y crea un algoritmo de reconocimiento facial utilizando ambos resultados.",
-            "image": "/placeholder.svg?height=300&width=500",
+            "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/rf.png?height=300&width=500",
             "tags": [
                 "Python",
                 "OpenCV2",
@@ -366,7 +366,7 @@
         {
             "title": "Clasificación de Latidos del Corazón",
             "description": "Proyecto de la clase de Inteligencia Artificial en la UNAH: Implementación de una Red Neuronal Profunda para la clasificación de las lecturas de latidos del corazón humano. Este es un problema de clasificación multiclase ya que hay 3 tipos posibles de latidos (Normal (N), Anormal (A), No Clasificable (U)).",
-            "image": "/placeholder.svg?height=300&width=500",
+            "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/clc.png?height=300&width=500",
             "tags": [
                 "Python",
                 "TensorFlow",
@@ -409,7 +409,7 @@
         {
             "title": "Aplicación de Clima",
             "description": "Una aplicación de clima que muestra el clima actual y el pronóstico para los próximos 5 días.",
-            "image": "/placeholder.svg?height=300&width=500",
+            "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/weather.png?height=300&width=500",
             "tags": [
                 "API de OpenWeatherMap",
                 "CSS",
@@ -423,7 +423,7 @@
         {
             "title": "Texto Encriptado",
             "description": "Una aplicación simple que encripta y desencripta texto utilizando un algoritmo simple.",
-            "image": "/placeholder.svg?height=300&width=500",
+            "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/encriptador.png?height=300&width=500",
             "tags": [
                 "HTML",
                 "CSS",
@@ -436,7 +436,7 @@
         {
             "title": "API de Pokémon",
             "description": "Una aplicación simple que muestra tarjetas con la información de un Pokémon utilizando la PokeAPI.",
-            "image": "/placeholder.svg?height=300&width=500",
+            "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/pokemon.png?height=300&width=500",
             "tags": [
                 "HTML",
                 "CSS",
@@ -449,7 +449,7 @@
         {
             "title": "REG410",
             "description": "Sistema para gestionar el registro de estudiantes en la UNAH.",
-            "image": "/placeholder.svg?height=300&width=500",
+            "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/reg410.png?height=300&width=500",
             "tags": [
                 "HTML",
                 "Bootstrap",
@@ -461,7 +461,7 @@
         {
             "title": "Convertidor de Monedas",
             "description": "Una aplicación simple que convierte monedas utilizando la API de CoinGecko.",
-            "image": "/placeholder.svg?height=300&width=500",
+            "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/conversor.png?height=300&width=500",
             "tags": [
                 "Java",
                 "JavaFX"
@@ -471,7 +471,7 @@
         {
             "title": "Frontend de Agencia de Viajes",
             "description": "Frontend de un sitio web de agencia de viajes.",
-            "image": "/placeholder.svg?height=300&width=500",
+            "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/travelco.png?height=300&width=500",
             "tags": [
                 "CSS",
                 "HTML"
@@ -482,7 +482,7 @@
         {
             "title": "Mi Primer Portafolio",
             "description": "Mi portafolio anterior.",
-            "image": "/placeholder.svg?height=300&width=500",
+            "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/firstPortfolio.png?height=300&width=500",
             "tags": [
                 "CSS",
                 "JavaScript",
