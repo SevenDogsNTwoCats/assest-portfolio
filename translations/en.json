@@ -398,7 +398,7 @@
         },
         {
             "title": "Weather App",
-            "description": "A weather app that shows the current weather and forecast for the next 5 days.",
+            "description": "A weather app that shows the current weather and forecast, wind speed, humidity, and more for any location using the OpenWeatherMap API.",
             "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/weather.png?height=300&width=500",
             "tags": [
                 "OpenWeatherMap API",
@@ -425,7 +425,7 @@
         },
         {
             "title": "Pokemon API",
-            "description": "A simple app that shows cards whit the information of a pokemon using the PokeAPI.",
+            "description": "A simple app that shows cards whit the information of all pokemon's evolutions using the PokeAPI.",
             "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/pokemon.png?height=300&width=500",
             "tags": [
                 "HTML",
@@ -438,7 +438,7 @@
         },
         {
             "title": "REG410",
-            "description": "System to manage the registration of students in the UNAH.",
+            "description": "System to manage the registration, edition, update data",
             "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/reg410.png?height=300&width=500",
             "tags": [
                 "HTML",
@@ -450,7 +450,7 @@
         },
         {
             "title": "Coin Converter",
-            "description": "A simple app that converts coins using the CoinGecko API.",
+            "description": "A simple app that converts coins using Java and JavaFX.",
             "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/conversor.png?height=300&width=500",
             "tags": [
                 "Java",

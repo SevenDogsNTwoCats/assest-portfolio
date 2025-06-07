@@ -398,7 +398,7 @@
         },
         {
             "title": "Aplicación de Clima",
-            "description": "Una aplicación de clima que muestra el clima actual y el pronóstico para los próximos 5 días.",
+            "description": "Una aplicación de clima que muestra el clima actual y pronósticos, viento, precipitaciones, temperatura, humedad y presión atmosférica utilizando la API de OpenWeatherMap.",
             "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/weather.png?height=300&width=500",
             "tags": [
                 "API de OpenWeatherMap",
@@ -425,7 +425,7 @@
         },
         {
             "title": "API de Pokémon",
-            "description": "Una aplicación simple que muestra tarjetas con la información de un Pokémon utilizando la PokeAPI.",
+            "description": "Una aplicación simple que muestra tarjetas con la evoluciones de cada Pokémon utilizando la PokeAPI.",
             "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/pokemon.png?height=300&width=500",
             "tags": [
                 "HTML",
@@ -438,7 +438,7 @@
         },
         {
             "title": "REG410",
-            "description": "Sistema para gestionar el registro de estudiantes en la UNAH.",
+            "description": "Sistema para gestionar el registro,eliminar y actualizar los datos",
             "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/reg410.png?height=300&width=500",
             "tags": [
                 "HTML",
@@ -450,7 +450,7 @@
         },
         {
             "title": "Convertidor de Monedas",
-            "description": "Una aplicación simple que convierte monedas utilizando la API de CoinGecko.",
+            "description": "Una aplicación simple que convierte monedas utilizando Java y JavaFX.",
             "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/conversor.png?height=300&width=500",
             "tags": [
                 "Java",
