@@ -369,7 +369,7 @@
         {
             "title": "Aplicación de Temporizador",
             "description": "TIMERAPP es una aplicación integral de gestión del tiempo construida con React Native y Expo. Ofrece tres herramientas esenciales de temporización para aumentar tu productividad y ayudarte a gestionar tu tiempo de manera efectiva.",
-            "image": "/placeholder.svg?height=300&width=500",
+            "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/timerapp.png?height=300&width=500",
             "tags": [
                 "React Native",
                 "Expo",
@@ -383,7 +383,7 @@
         {
             "title": "Tsunami",
             "description": "Tsunami es una aplicación de música que te permite buscar música utilizando la API de Deezer, descargar música de Deezer o YouTube y gestionar listas de reproducción. También tiene un reproductor de música con controles estándar.",
-            "image": "/placeholder.svg?height=300&width=500",
+            "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/tsunami.png?height=300&width=500",
             "tags": [
                 "React Native",
                 "Expo",
