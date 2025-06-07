@@ -479,12 +479,12 @@
                 "HTML"
             ],
             "githubUrl": "",
-            "liveUrl": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/newPortfolio.png?height=300&width=500"
+            "liveUrl": "https://alhanisespinal.web.app/"
         },
         {
             "title": "This Portfolio",
             "description": "My current portfolio.",
-            "image": "/placeholder.svg?height=300&width=500",
+            "image": "https://raw.githubusercontent.com/SevenDogsNTwoCats/assest-portfolio/refs/heads/main/img/projects/newPortfolio.png?height=300&width=500",
             "tags": [
                 "Tailwind",
                 "React",
@@ -494,7 +494,7 @@
                 "ShadCN"
             ],
             "githubUrl": "",
-            "liveUrl": ""
+            "liveUrl": "alhespinal.web.app"
         }
     ],
     "certificates": [
