@@ -243,21 +243,11 @@
             "location": "Tegucigalpa, Honduras",
             "date": "07/2024 – 01/2025",
             "description": [
-                "Support in the management and analysis of data from smart electricity meters.",
-                "Collaboration in the automation of ETL processes for data inputs.",
-                "Assistance in the development and maintenance of data flows in Airflow.",
-                "Support in the creation of dashboards in Grafana.",
-                "Collaboration in the implementation and improvement of custom alarms based on consumption patterns.",
-                "Assistance in the management of databases, including MySQL, MongoDB and MSSQL.",
-                "Support in the optimization of queries and data structures to improve system performance.",
-                "Collaboration in the development and maintenance of APIs for system integration.",
-                "Assistance in the implementation of security measures for systems and databases.",
-                "Support in the management and monitoring of Docker infrastructure.",
-                "Collaboration in the development and maintenance of scripts for task automation.",
-                "Assistance in the analysis of energy consumption patterns and anomaly detection.",
-                "Support in the implementation and improvement of machine learning models, neural networks.",
-                "Collaboration in the generation of reports and visualizations for decision making.",
-                "Assistance in the configuration and maintenance of web servers and reverse proxies (nginx)."
+                "Data analysis and management from smart electricity meters.",
+                "ETL automation and data flow orchestration using Airflow and scripts.",
+                "Database management (MySQL, MongoDB, MSSQL) and performance optimization.",
+                "Development of dashboards, custom alarms, and visualizations in Grafana.",
+                "Implementation of machine learning models and support for infrastructure (APIs, Docker, nginx)."
             ],
             "skills": [
                 "Python",

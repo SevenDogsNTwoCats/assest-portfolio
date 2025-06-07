@@ -177,7 +177,7 @@
             "location": "Presencial",
             "date": "04/2025 – Present",
             "description": [
-                "Desarrollo y mantenimiento de aplicaciones web utilizando tecnologías como React, NextJS, Node.js y AWS."
+                "Desarrollo de aplicaciones web utilizando tecnologías como React, NextJS, Node.js y AWS."
             ],
             "skills": [
                 "AWS",
@@ -243,21 +243,11 @@
             "location": "Tegucigalpa, Honduras",
             "date": "07/2024 - 01/2025",
             "description": [
-                "Apoyo en la gestión y análisis de datos de medidores inteligentes de electricidad.",
-                "Colaboración en la automatización de procesos ETL para entradas de datos.",
-                "Asistencia en el desarrollo y mantenimiento de flujos de datos en Airflow.",
-                "Apoyo en la creación de tableros en Grafana.",
-                "Colaboración en la implementación y mejora de alarmas personalizadas basadas en patrones de consumo.",
-                "Asistencia en la gestión de bases de datos, incluyendo MySQL, MongoDB y MSSQL.",
-                "Apoyo en la optimización de consultas y estructuras de datos para mejorar el rendimiento del sistema.",
-                "Colaboración en el desarrollo y mantenimiento de APIs para la integración del sistema.",
-                "Asistencia en la implementación de medidas de seguridad para sistemas y bases de datos.",
-                "Apoyo en la gestión y monitoreo de infraestructura Docker.",
-                "Colaboración en el desarrollo y mantenimiento de scripts para la automatización de tareas.",
-                "Asistencia en el análisis de patrones de consumo de energía y detección de anomalías.",
-                "Apoyo en la implementación y mejora de modelos de aprendizaje automático, redes neuronales.",
-                "Colaboración en la generación de informes y visualizaciones para la toma de decisiones.",
-                "Asistencia en la configuración y mantenimiento de servidores web y proxy inverso (nginx)."
+                "Análisis y gestión de datos de medidores eléctricos inteligentes.",
+                "Automatización de procesos ETL y flujos de datos con Airflow y scripts.",
+                "Gestión de bases de datos (MySQL, MongoDB, MSSQL) y optimización del rendimiento.",
+                "Desarrollo de dashboards, alarmas personalizadas y visualizaciones en Grafana.",
+                "Implementación de modelos de machine learning y soporte en infraestructura (APIs, Docker, nginx)."
             ],
             "skills": [
                 "Python",
